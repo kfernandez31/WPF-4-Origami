@@ -2,7 +2,7 @@
 
 ## Origami
 
-Zaimplementuj **bibliotekę dla fanów origami** do badania ile warstw ma w danym punkcie sprytnie poskładana kartka papieru. Biblioteka powinna implementować interfejs [**origami.mli**](TODO), podany poniżej.
+Zaimplementuj **bibliotekę dla fanów origami** do badania ile warstw ma w danym punkcie sprytnie poskładana kartka papieru. Biblioteka powinna implementować interfejs [**origami.mli**](https://github.com/kfernandez31/WPF-4-Origami/blob/main/src/origami.mli), podany poniżej.
 
 Rozwiązania istotnie korzystające z procedur wyższych rzędów będą oceniane wyżej. 
 ```ocaml

@@ -4,7 +4,7 @@ What you see is a repository of my solution for task no. 4. of the [Introduction
 
 # Brief description
 
-The task was to TODO
+The task was to write a library of "origami" operations (folds) on a structure representing a sheet of paper. 
 
 # Full description 
 
